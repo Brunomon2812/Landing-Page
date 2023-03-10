@@ -16,10 +16,6 @@ Tivemos como base instituições que já estão consolidadas no mercado, por exe
 - Itens do menu na header não levam para nenhuma página
 - Responsividade da footer pode ser ajustada
 
-# 🔗 Link para acessar
-
-[keen-interest.surge.sh/](wide-eyed-quiet.surge.sh)
-
 # 🛠 Tecnologias
 
 - CSS
